@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main(){ int a,b,s;
-	printf("Taper A=\n");
+	printf("Enter the two values A and B \n A=");
 	scanf("%d",&a);
-    printf("Taper B=\n");
+    printf("Taper B=");
     scanf("%d",&b);
     s=a+b;
     printf("The result of Addition is:%d",s);
