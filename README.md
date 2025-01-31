@@ -1,6 +1,6 @@
 # Hi there! 👋
 ### I'm Aboubaker
-## About Me
+## 🙋‍♂ About Me
 I'm a Computer Science student passionate about **Cybersecurity** and **Networking**. I enjoy learning new technologies, solving security challenges, and improving my programming skills.
 
 ## 🔧 Skills & Interests
@@ -15,9 +15,9 @@ I'm a Computer Science student passionate about **Cybersecurity** and **Networki
 - 🚀 Contributing to open-source projects
 
 ## 📫 Contact Me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/moussaoui-aboubaker-389a41249/)
-- GitHub: [Your GitHub](https://github.com/Aboubaker001)
-- Email: your.email@example.com
+- LinkedIn: [Ny LinkedIn](https://www.linkedin.com/in/moussaoui-aboubaker-389a41249/)
+- GitHub: [My GitHub](https://github.com/Aboubaker001)
+- Email: moussaouiaboubaker.sn@gmail.com
 
 ---
 💡 *"Security is not a product, but a process."*
