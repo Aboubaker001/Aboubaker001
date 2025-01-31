@@ -6,7 +6,7 @@ I'm a Computer Science student passionate about **Cybersecurity** and **Networki
 ## 🔧 Skills & Interests
 - 🛡️ Cybersecurity & Ethical Hacking
 - 🌐 Networking & System Administration
-- 💻 Programming (Python, C, HTML&CSS)
+- 💻 Programming (Python, C, Javascript, HTML&CSS)
 
 
 ## 🏆 Current Goals
