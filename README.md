@@ -15,7 +15,7 @@ I'm a Computer Science student passionate about **Cybersecurity** and **Networki
 - 🚀 Contributing to open-source projects
 
 ## 📫 Contact Me
-- LinkedIn: [Ny LinkedIn](https://www.linkedin.com/in/moussaoui-aboubaker-389a41249/)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/moussaoui-aboubaker-389a41249/)
 - GitHub: [My GitHub](https://github.com/Aboubaker001)
 - Email: moussaouiaboubaker.sn@gmail.com
 
