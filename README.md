@@ -1,6 +1,6 @@
 # Hi there! 👋
 ### I'm Aboubaker
-## 🙋‍♂ About Me
+##  About Me
 I'm a Computer Science student passionate about **Cybersecurity** and **Networking**. I enjoy learning new technologies, solving security challenges, and improving my programming skills.
 
 ## 🔧 Skills & Interests
