@@ -3,10 +3,10 @@
 ##  About Me
 I'm a Computer Science student passionate about **Cybersecurity** and **Networking**. I enjoy learning new technologies, solving security challenges, and improving my programming skills.
 
-## 🔧 Skills & Interests
+## 🔧 Interests
 - 🛡️ Cybersecurity & Ethical Hacking
 - 🌐 Networking & System Administration
-- 💻 Programming (Python, C, Javascript, HTML&CSS)
+- 💻 Programming (C, Javascript, HTML&CSS)
 
 
 ## 🏆 Current Goals
